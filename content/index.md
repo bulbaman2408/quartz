@@ -6,9 +6,9 @@ Hello and welcome! If you are reading this then you are one of a lucky few who h
 
 To continue, simply click on the relevant hyperlink below or use the interactive map in the bottom left of the screen.
 
-[[PC's]]
-[[NPC's]]
-[[Leads]]
-[[Organizations]]
-[[Locations]]
+-[[PC's]]  
+-[[NPC's]]  
+-[[Leads]]  
+-[[Organizations]]  
+-[[Locations]]
 

@@ -1,7 +1,13 @@
 ---
-title: PC's
+title: Player Characters
 draft: false
 tags:
 ---
- 
-The rest of your content lives here. You can use **Markdown** here :)
+There are six player characters in The Grenwald Story. For more information, select the character below that you would like to view.
+
+-[[Bolg]]  
+-[[Callum]]  
+-[[Flintdew Baxter]]  
+-[[Levidus CogShell]]  
+-[[Oswald Cloverwick]]  
+-[[Wally Samson]]  
