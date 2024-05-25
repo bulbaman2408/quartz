@@ -5,7 +5,11 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Introduction
+    - Locations
+    - NPC's
+    - PC's
+    - Organizations
+    - Leads
   sceneTemplate: templates/Chapters.md
   ignoredFiles: []
 ---
