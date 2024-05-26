@@ -31,8 +31,8 @@ The land of Grenwald is packed with varied NPC's, all of which serve their very 
 **Regis Cain**  
 -Regis Cain is a representative for the Finn Family who posted a missing person contract for Otto in the town of Baelson's Ghetto. Wally and Levidus turned Otto over to Regis for the reward and learned much about the Finn Family, Grand Trenton, and Julius Saint.
 
-**Unnamed Drow**
--The party encountered this drow man after learning that he was the one employing goblins to rob oil caravans on their way to the capital. When the drow man arrived to pick up a batch of the barrels, the party confronted him. They learned that the man worked for Julius Saint and that they were stealing the oil for the rebels. This man has a bounty for one hundred gold on his head from a mystery organization that Wally claims to have some sort of knowledge of. Wally asked the drow man to help him bait out this mystery organization to which the man refused, claiming that he had already captured someone from this mystery organization. Wally tried to attack the man but was quickly incapacitated by him. The drow told the rest of the party that he would be in touch and gave them a business card with his name on it.
+**Vital**
+-The party encountered this drow man after learning that he was the one employing goblins to rob oil caravans on their way to the capital. When Vital arrived to pick up a batch of the barrels, the party confronted him. They learned that the man worked for Julius Saint and that they were stealing the oil for the rebels. This man has a bounty for one hundred gold on his head from a mystery organization that Wally claims to have some sort of knowledge of.
 
 **George**  
 -George was an original member of Group 2 out of Baelson's Ghetto, but died on their first mission after falling into a goblin spike trap. 

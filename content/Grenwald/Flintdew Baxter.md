@@ -3,13 +3,13 @@ title: Flintdew Baxter
 draft: false
 tags:
 ---
-Race: ?
+**Race**: ?
 
-Curse: ?
+**Curse**: ?
 
-Appearance: ?
+**Appearance**: ?
 
-Backstory: ?
+**Backstory**: ?
 
-Notes  
+**Notes**  
 -
